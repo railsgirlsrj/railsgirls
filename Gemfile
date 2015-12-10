@@ -7,6 +7,7 @@ gem 'twitter-bootstrap-rails'
 gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'carrierwave'
 
 group :development, :test do
   gem 'byebug'
